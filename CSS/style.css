@@ -64,7 +64,7 @@ body {
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold";
     color: yellow;
     margin-top: 3%;
-    margin-top: 6%;
+    margin-top: 10%;
   }
   
   .h2noticias {
@@ -115,6 +115,8 @@ a:focus, a:hover {
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold";
     color: black;
     background-color: yellow;
+    margin-top: 10%;
+    margin-bottom: 10%;
   }
   .parrafo1 {
     font-size: 30px;
@@ -125,7 +127,7 @@ a:focus, a:hover {
 }
 /* sub20 */
 .sub {
-  margin-bottom: 2%;
+  margin-bottom: 5%;
   margin-top: 5%;
   font-size: 70px;
   color: yellow;
@@ -345,6 +347,8 @@ section .luis:hover {
 @media (max-width: 600px) {
   #carouselExampleRide .carousel-item img {
     max-height: 300px;
+    margin-top: 10%;
+    margin-bottom: 10%;
   }
 }
 
@@ -352,7 +356,7 @@ section .luis:hover {
   padding: 20px;
   text-align: center;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  margin-top: 5%;
+  margin-top: 10%;
 }
 
 .nacionales11 {
@@ -412,7 +416,7 @@ section .luis:hover {
     text-align: center;
     background-color: rgb(221, 221, 61);
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-    margin-top: 6%;
+    margin-top: 10%;
   }
 
 .secmundo {
@@ -437,6 +441,7 @@ section .luis:hover {
   .secmundo .card:nth-child(4n) {
     margin-right: 0;
   }
+  
 }
 
 .card {
