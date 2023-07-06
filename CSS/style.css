@@ -492,12 +492,14 @@ section .luis:hover {
   @media screen and (max-width: 768px) {
     .map-container {
       padding-bottom: 60%; /* Modifica el aspect ratio del mapa para pantallas más pequeñas */
+      margin-top: 10%;
     }
   }
   
   @media screen and (max-width: 480px) {
     .map-container {
       padding-bottom: 50%; /* Modifica el aspect ratio del mapa para pantallas aún más pequeñas */
+      margin-top: 10%;
     }
   }
   
