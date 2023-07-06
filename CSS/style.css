@@ -63,7 +63,7 @@ body {
     font-size: 70px;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold";
     color: yellow;
-    margin-top: 3%;
+    margin-top: 5%;
     margin-top: 10%;
   }
   
@@ -416,7 +416,7 @@ section .luis:hover {
     text-align: center;
     background-color: rgb(221, 221, 61);
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-    margin-top: 10%;
+    margin-top: 12%;
   }
 
 .secmundo {
@@ -508,7 +508,7 @@ section .luis:hover {
   .contactanosnews {
     font-size: 40px;
     color: black;
-    margin-top: 6%;
+    margin-top: 10%;
     text-align: center;
     background-color: rgb(221, 221, 61);
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
