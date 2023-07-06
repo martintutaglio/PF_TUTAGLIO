@@ -542,6 +542,7 @@ section .luis:hover {
     width: 100%; /* Modifica el ancho del botón para ocupar todo el espacio disponible */
     max-width: 200px; /* Ajusta el ancho máximo según sea necesario */
     background-color: yellow;
+    color: black;
     border-radius: 10px;
   }
   
@@ -551,6 +552,7 @@ section .luis:hover {
   
   .enviarnews {
     background-color: yellow;
+    color: black;
   }
   
   .container {
