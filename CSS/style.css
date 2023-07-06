@@ -13,6 +13,7 @@ body {
   font-size: 50px; /* Ajusta el valor según tus preferencias */
   background: linear-gradient(to left, yellow, black);
   color: white;
+  
 }
 .navbar a {
   font-size: 20px; /* Ajusta el valor según tus preferencias */
@@ -167,7 +168,7 @@ a:focus, a:hover {
     font-size: 60px;
     color: yellow;
     text-align: center;
-    margin-top: 6%;
+    margin-top: 12%;
     padding: 0;
   }
   
@@ -187,7 +188,7 @@ a:focus, a:hover {
     max-height: 100vh;
     overflow: visible;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    margin-bottom: 20%;
+    margin-bottom: 30%;
   }
   
   .grid-container .item img {
